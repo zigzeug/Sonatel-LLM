@@ -10,9 +10,9 @@
 ```bash
 $ python3 -m venv .venv
 $ source .venv/bin/activate
-$ pip install -r requirements.txt
+$ pip install streamlit pypdf2 langchain faiss-cpu
 ```
-        -  Install llama on Ollama
+        -  Install llama3 on Ollama
 ## Author
 
 - [@zigzeug](https://www.github.com/zigzeug)
